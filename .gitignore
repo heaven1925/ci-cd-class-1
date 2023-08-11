@@ -1,0 +1,11 @@
+# STM32CubeIDE
+*.bin
+*.elf
+*.list
+*.map
+*.list
+!objects.list
+*.d
+*.o
+*.su
+test-results*.xml
