@@ -83,7 +83,8 @@ int main(void)
 
   /* Initialize all configured peripherals */
   /* USER CODE BEGIN 2 */
-
+  void app_main(void);
+  app_main();
   /* USER CODE END 2 */
 
   /* Infinite loop */
